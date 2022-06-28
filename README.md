@@ -1,16 +1,15 @@
-### Hi there 👋
+###Olá pessoal! 👋
 
-<!--
-**anahenschel/anahenschel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Me chamo Ana Caroline Henschel, tenho 16 anos e tenho vontade de trabalhar na área de desenvolvimento de sistemas</h1>
+Segue aí algumas infos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Trabalho na Senior Sistemas como Jovem Aprendiz;
+- ☕ Faço o Entra21 de Java na FURB
+- 🙋‍♀️ Gosto de trabalhar em equipe
+- 😊 Sou comunicativa e proativa
+- 📢<a href= 'https://www.linkedin.com/in/ana-caroline-h-72b2811ba/' > Meu LinkedIn:</a>
+- 😄 Pronouns: ela/dela;
+- 👩‍💻 Amo tecnologia!
+
+  

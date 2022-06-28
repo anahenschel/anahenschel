@@ -9,7 +9,7 @@ Segue aí algumas infos sobre mim:
 - 🙋‍♀️ Gosto de trabalhar em equipe
 - 😊 Sou comunicativa e proativa
 - 📢<a href= 'https://www.linkedin.com/in/ana-caroline-h-72b2811ba/'> Meu LinkedIn:</a>
-- 😄 Pronouns: ela/dela;
+- 😄 Pronomes: ela/dela;
 - 👩‍💻 Amo tecnologia!
 
   

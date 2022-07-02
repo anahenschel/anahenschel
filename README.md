@@ -1,7 +1,7 @@
 Olá pessoal! 👋
 
 
-<h2>Me chamo Ana Caroline Henschel, tenho 16 anos e tenho vontade de trabalhar na área de desenvolvimento de sistemas</h2>
+<h2>Me chamo Ana Caroline Henschel, tenho 16 anos e tenho interesse em trabalhar na área de desenvolvimento de sistemas</h2>
 Segue aí algumas infos sobre mim:
 
 - 💼 Trabalho na Senior Sistemas como Jovem Aprendiz;

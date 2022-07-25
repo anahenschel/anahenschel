@@ -4,7 +4,7 @@ Olá pessoal! 👋
 <h2>Me chamo Ana Caroline Henschel, tenho 16 anos e tenho interesse em trabalhar na área de desenvolvimento de sistemas</h2>
 Segue aí algumas infos sobre mim:
 
-- 💼 Trabalho na Senior Sistemas como Jovem Aprendiz;
+- 💼 Pretendo trabalhar em empresas onde eu possa me desenvolver e contribuir com o time;
 - ☕ Faço o Entra21 de Java na FURB
 - 🙋‍♀️ Gosto de trabalhar em equipe
 - 😊 Sou comunicativa e proativa

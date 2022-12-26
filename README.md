@@ -4,12 +4,12 @@ Olá pessoal! 👋
 <h2>Me chamo Ana Caroline Henschel, tenho 17 anos e tenho interesse em trabalhar na área de desenvolvimento de sistemas</h2>
 Segue aí algumas infos sobre mim:
 
-- 💼 Atualmente trabalho como Estagiária na Senior Sistemas;
+- 💼 Atualmente trabalho como Estagiária na Senior Sistemas
 - ☕ Fiz o Entra21 de Java na FURB
 - 🙋‍♀️ Gosto de trabalhar em equipe
 - 😊 Sou comunicativa e proativa
 - 📢<a href= 'https://www.linkedin.com/in/ana-caroline-h-72b2811ba/'> Meu LinkedIn:</a>
-- 😄 Pronomes: ela/dela;
+- 😄 Pronomes: ela/dela
 - 👩‍💻 Amo tecnologia!
 
 <div align="center">

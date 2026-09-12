@@ -1,9 +1,9 @@
 Olá pessoal! 👋
 
-<h2>Me chamo Ana Caroline Henschel, tenho 20 anos e trabalho na área de desenvolvimento de sistemas</h2>
+<h2>Me chamo Ana Caroline Henschel e trabalho na área de desenvolvimento de sistemas</h2>
 Segue aí algumas infos sobre mim:
 
-- 💼 Atualmente trabalho como Desenvolvedora na Senior Sistemas
+- 💼 Atualmente trabalho como Software Developer na Senior Sistemas
 - ☕ Fiz o Entra21 de Java na FURB
 - 🙋‍♀️ Gosto de trabalhar em equipe
 - 😊 Sou comunicativa e proativa
